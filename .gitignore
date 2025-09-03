@@ -1,0 +1,4 @@
+#da forma abaixo ele ignora tudo que termina com .bmp
+*.bmp
+#da forma a baixo ele ignora exatamente esse arquivo
+#config.txt
